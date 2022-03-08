@@ -1,0 +1,34 @@
+div{
+	min-height:50px;
+	border:2px solid black;
+}
+#div1{
+	background-color:cadetblue;
+}
+#div2{
+	background-color:chartreuse;
+}
+#div3{
+	background-color:gainsboro;
+}
+#div4{
+	background-color:lemonchiffon;
+}
+#div5{
+	background-color:navajowhite;
+}
+#div6{
+	background-color:oldlace;
+}
+#div7{
+	background-color:olivedrab;
+}
+#div8{
+	background-color:peachpuff;
+}
+#div9{
+	background-color:sandybrown;
+}
+#div10{
+	background-color:saddlebrown;
+}
